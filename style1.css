@@ -1,0 +1,85 @@
+body {
+     background-image: url("soldier.jpg");
+     background-color:#5b1e5b;
+    }
+     h1 {
+     color:white;
+     background-color:  #5b1e5b;
+
+    }
+      
+      h3{
+           text-align: bold;
+           color: blueviolet;
+           -webkit-column-break-after: auto;
+           background-color: greenyellow;
+      }           
+          
+        P {
+            font-size: 5px;
+
+color:white;
+background-color: #5b1e5b;
+           font-size: 20px;
+           text-align: center;
+           
+      }  
+
+           
+      ul{
+           color: white;
+           list-style-type:none;
+
+}
+      
+                   
+     h1 {
+           color:
+     }
+
+           text-center
+
+     } 
+      a:link, a:visited{
+            displa:white;
+            width: 120px;
+            background-color: rgb(66, 50, 205);
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding: 5px;
+                      }
+         
+               a:hover,a:active{
+                     background-color: green;
+               }
+     img .center {
+display: block;
+      }
+      
+.nav{
+     
+     
+     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./20.jpg);
+
+}
+            
+button:hover {
+      color: #000000;
+      background: #5b1e5b;
+      }                                           
+
+         h4 {
+            font-size: 5px;
+
+color:white;
+background-color: #5b1e5b;
+           font-size: 20px;
+           text-align: center;
+           
+      }  
+footer{
+      color: azure;
+      padding-bottom: 20px;
+}
